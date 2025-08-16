@@ -65,4 +65,3 @@ def ec2_name_generator():
         print("Department name invalid. Please enter a valid department name.")
 
 ec2_name_generator()
-#
